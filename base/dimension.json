@@ -129,6 +129,10 @@
       "480-1-920px": {
         "value": "1920px",
         "type": "dimension"
+      },
+      "2-5-10px": {
+        "value": "10px",
+        "type": "dimension"
       }
     },
     "dimension": {
@@ -302,6 +306,10 @@
       },
       "spacing-11xl": {
         "value": "{dimension.spacing.40-160px}",
+        "type": "dimension"
+      },
+      "spacing-md-2": {
+        "value": "{dimension.spacing.2-5-10px}",
         "type": "dimension"
       }
     },
