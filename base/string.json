@@ -17,6 +17,14 @@
       "font-family-body-2": {
         "value": "Xanh Display 2.0",
         "type": "string"
+      },
+      "font-family-display-3": {
+        "value": "Lexend",
+        "type": "string"
+      },
+      "font-family-body-3": {
+        "value": "Lexend",
+        "type": "string"
       }
     },
     "font-weight": {
